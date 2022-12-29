@@ -31,6 +31,4 @@ function renderTask(taskDescription){
     task.remove();
   });
   task.append(deleteButton);
-
-  
 }
